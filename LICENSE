@@ -1,21 +1,31 @@
-MIT License
+License
 
-Copyright (c) 2023 Zuzana Daskova
+Copyright (c) 2023 Zuzana Daskova  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Týmto sa udeľuje bezplatné povolenie používať každej osobe, ktorá získa kópiu
+tohto zdroja, ktorý sa zakazuje nejako upravovať alebo dopĺňať nejaké prvky do týchto súborov. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Vyššie uvedené upozornenie o autorských právach a toto upozornenie o povolení musia byť zahrnuté vo všetkých
+alebo podstatných častiach tohto súboru.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ZDROJ SA POSKYTUJE "TAK, AKO JE", BEZ AKEJKOĽVEK ZÁRUKY, VÝSLOVNEJ ALEBO
+PREDPOKLADANÝCH, VRÁTANE, ALE NIE VÝLUČNE, ZÁRUK PREDAJNOSTI,
+VHODNOSTI NA KONKRÉTNY ÚČEL A NEPORUŠENIA. V ŽIADNOM PRÍPADE SA
+AUTORI ALEBO DRŽITELIA AUTORSKÝCH PRÁV NEZODPOVEDAJÚ ZA ŽIADNE NÁROKY, ŠKODY ALEBO INÉ
+ZODPOVEDNOSŤ, ČI UŽ V RÁMCI ZMLUVNÉHO, DELIKTNÉHO ALEBO INÉHO KONANIA, VYPLÝVAJÚCU Z,
+ZO ZDROJA ALEBO V SÚVISLOSTI S NÍM, JEHO POUŽÍVANÍM ALEBO INÝM ZAOBCHÁDZANÍM S NÍM.  
+
+
+Permission is hereby granted, free of charge, to any person who obtains a copy of
+of this resource, who is prohibited from modifying or adding any elements to these files in any way. 
+
+The above copyright notice and this permission notice must be included in all
+or substantial portions of this file.
+
+THE SOURCE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+AUTHORS OR COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES OR OTHER
+LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING OUT OF,
+ARISING OUT OF OR IN CONNECTION WITH THE SOURCE, ITS USE OR OTHER DEALING WITH IT
+SOURCE.  
