@@ -1,4 +1,4 @@
-# Jozef Egyptský - muzikál (mp3)
+# Životopis Jozef Egyptský (muzikál-mp3, pdf-Biblia)
 
 Muzikál Jozef Egyptský bol hraný začiatkom 3. tisícročia. Táto nahrávka bola urobená počas divadelného predstavenia.  
 Je možné si prečítať state zo Svätého písma, kde sa hovorí o Jozefovi a jeho živote alebo si vypočuť túto nahrávku. Kvalita nahrávky je priemerná.  
@@ -25,4 +25,3 @@ Epizódy:
 16. Bratia spievajú o Benjamínovi, o svojich zločinoch  
 17. Jozef sa prezrádza svojim bratom  
 18. Boh hovorí v Kanaáne Jakubovi  
-
